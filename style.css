@@ -10,3 +10,9 @@ body {
     border-radius: 5px;
     padding: 10px 46px;
 }
+.featured-bike {
+    margin-top: 120px;
+}
+.grayscale {
+    filter: grayscale(100%);
+}
