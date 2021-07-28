@@ -1,0 +1,12 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.header {
+    background-color: #264653;
+}
+.purchase-btn {
+    background-color: #E76F51;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 46px;
+}
