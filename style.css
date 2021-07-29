@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+   
 }
 .header {
     background-color: #264653;
@@ -17,6 +18,3 @@ body {
     filter: grayscale(100%);
 }
 
-.text-decoration {
-    text-decoration: none;
-}
