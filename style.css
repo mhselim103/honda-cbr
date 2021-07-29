@@ -17,4 +17,6 @@ body {
 .grayscale {
     filter: grayscale(100%);
 }
-
+.carousel-image {
+    margin: 0 auto;
+}
