@@ -16,3 +16,7 @@ body {
 .grayscale {
     filter: grayscale(100%);
 }
+
+.text-decoration {
+    text-decoration: none;
+}
